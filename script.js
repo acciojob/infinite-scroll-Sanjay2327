@@ -7,5 +7,4 @@ function scroll() {
 	li.innerText = "Item" ;
 	list.appendChild(li);
 
-	document.getElementById("infi-list").append(li , li2)
 }
